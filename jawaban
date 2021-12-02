@@ -1,0 +1,24 @@
+1. Perintah Linux:
+ - chmod: untuk mengganti file permission, contoh: "chmod 777 abc.txt" (memberikan akses read,write,&execute utk owner,group,&others terkait file abc.txt)
+ - mv: untuk memindahkan file, contoh: "mv abc.txt tes/abc.txt" (memindahkan file abc.txt ke dalam directory tes)
+ - rmdir: utk menghapus directory kosong, contoh: "rmdir tes" (menghapus directory tes)
+ - chown: utk mengganti owner file, contoh "chown bofan abc.txt" (mengganti owner file abc.txt menjadi bofan)
+
+2. File docker-compose.yml terlampir
+
+3. File build.gradle terlampir
+
+4.a. AppCenter.start(application, "559fc51f-cad9-45d1-bd68-625af966c4de", Analytics::class.java, Crashes::class.java)
+4.b.
+
+5. File goreleaser.yml terlampir
+
+6. File flutter-ci.yml terlampir
+
+7. File flutter-cd.yml terlampir
+
+8. File .yml terlampir (inprogress)
+
+9. File .yml terlampir (inprogress)
+
+10. File terlampir (inprogress)
