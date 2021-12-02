@@ -9,7 +9,7 @@
 3. File build.gradle terlampir
 
 4.a. AppCenter.start(application, "559fc51f-cad9-45d1-bd68-625af966c4de", Analytics::class.java, Crashes::class.java)
-4.b.
+4.b. -
 
 5. File goreleaser.yml terlampir
 
@@ -17,8 +17,8 @@
 
 7. File flutter-cd.yml terlampir
 
-8. File .yml terlampir (inprogress)
+8. File azure-pipelines.yml terlampir
 
-9. File .yml terlampir (inprogress)
+9. -
 
-10. File terlampir (inprogress)
+10. -
